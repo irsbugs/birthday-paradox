@@ -13,6 +13,8 @@ is 23 or fewer. With 70 people there is a 99.9% threshold.
 
 ## Probabilities:
 
+| n | Percent |
+|---|---|
 | 1  | 0.0% |
 | 5  | 2.7% |
 | 10 | 11.7% |
