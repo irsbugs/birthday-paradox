@@ -30,7 +30,7 @@ is 23 or fewer. With 70 people there is a 99.9% threshold.
 Two command line arguments may be passed to the program. The first is the number of iterations
 and second is what is effectively the number of random people in the room. 
 The default values are 100 and 23.
-
+```
 $ python3 birthday_paradox.py 1000000 23
 Total iterations: 1000000
 Total items in a list: 23
@@ -50,3 +50,4 @@ More than one duplicate 993
 Duplicate percentage: 99.9%
 
 Duration: 0.2
+```
