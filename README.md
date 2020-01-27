@@ -12,18 +12,18 @@ It can be shown that the number of people required to reach the 50% threshold
 is 23 or fewer. With 70 people there is a 99.9% threshold.
 
 ## Probabilities:
-1   0.0%
-5   2.7%
-10  11.7%
-20  41.1%
-23  50.7%
-30  70.6%
-40  89.1%
-50  97.0%
-60  99.4%
-70  99.9%
-75  99.97%
-100 99.99997% 
+* 1   0.0%
+* 5   2.7%
+* 10  11.7%
+* 20  41.1%
+* 23  50.7%
+* 30  70.6%
+* 40  89.1%
+* 50  97.0%
+* 60  99.4%
+* 70  99.9%
+* 75  99.97%
+* 100 99.99997% 
 
 ## Examples:
 
